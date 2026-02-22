@@ -3,6 +3,7 @@
 A lightweight animated starfield background built using HTML5 Canvas and vanilla JavaScript. 
 Stars move smoothly downward to simulate a space-like motion effect, creating an immersive visual background.
 
+![Dot Screenshot](./img.png)
 ##  Features
 
 - Smooth falling star animation  
